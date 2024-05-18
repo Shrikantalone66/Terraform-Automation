@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "mydev-tf-state-bucket-1666"
+  bucket = "shrikant-bucketss"
     key = "main"
     region = "ap-south-1" 
     #region = "us-east-1"
